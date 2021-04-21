@@ -32,7 +32,7 @@ D) In Office: username: "naman" password: "naman"
 
 ## TO RUN ON YOUR LOCAL MACHINE:
 - Clone this repository on your local machine.
-- Install Node.js and npm on your machine from here ( https://nodejs.org/en/download/ ). Check for the succesfull installation using the command -> node -v and npm -v.
+- Install Node.js , react and npm on your machine). Check for the succesfull installation using the command -> node -v and npm -v.
 - Open command prompt and change the directory to the cloned directory.
 - Now install dependencies using - 
   - npm install  (in current folder)
