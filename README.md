@@ -41,7 +41,7 @@ It is a web application which fulfills the day-to-day requirement of Manufacturi
 - **Front-end Server : http://localhost:3000**
 
 ## TO RUN THE WEB APP:
-A) Goto https://industryapp.herokuapp.com/'
+A) Goto https://industryapp.herokuapp.com/ <br/>
 Login : 
 - Employee - Email - rishabh@gmail.com    Password - rishabh@gmail.com
 - Admin - Email - sohan@gmail.com    Password - sohan@gmail.com
