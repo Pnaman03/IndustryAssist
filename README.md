@@ -42,9 +42,9 @@ It is a web application which fulfills the day-to-day requirement of Manufacturi
 
 ## TO RUN THE WEB APP:
 A) Goto https://industryapp.herokuapp.com/'
+Login : 
+- Employee - Email - rishabh@gmail.com    Password - rishabh@gmail.com
+- Admin - Email - sohan@gmail.com    Password - sohan@gmail.com
 
-## Contributors-
-- [Naman Patidar](https://github.com/Pnaman03)
-- [Alok Garg](https://github.com/alokgar)
-- [Ashutosh Gupta](https://github.com/ashutosh987)
+
 
